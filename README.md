@@ -1,3 +1,8 @@
+## SCORE Project
+
+The SCORE project, funded by the U.S. Department of Energy, develops a new method for integrating resilience, social equity, and clean energy planning in Seattle. In partnership with Seattle City Light (SCL), NREL, and community organizations, the project evaluates where solar-plus-storage systems should be placed to maintain access to essential services during power outages—especially in environmental justice communities. While NREL provides an analytic siting approach based on technical and spatial data, the University of Washington team examines how community-driven insights reshape utility investment priorities by capturing needs that traditional models overlook, such as proximity, affordability, transit access, and household-specific vulnerabilities.
+
+
 Figure 1: Geographic Map for the Survey Area
 
 ![](images/media/image1.png){width="1.503961067366579in"
@@ -260,4 +265,5 @@ and one stated they were open to relocating but they did not provide
 their first choice.**
 
 ![](images/media/image15.png){width="6.5in" height="4.0625in"}
+
 
